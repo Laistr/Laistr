@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍💻 Estudante de Análise e desnvolvimento de sistemas
-- 🌱 Estudando: Python, HTML, CSS e Banco de Dados
+- 🌱 Estudando: Python, HTML, CSS, Banco de Dados e Engenharia de Software
 - 😄 Pronomes: ela/dela
 - 🎶 Amo escutar música
 
